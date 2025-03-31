@@ -21,7 +21,7 @@ Ensure you have Python (>= 3.7) and Poetry installed. Then follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/pubmed-api.git
+    git clone https://github.com/yamini-Krishna/PubMed-API.git
     cd pubmed-api
     ```
 
