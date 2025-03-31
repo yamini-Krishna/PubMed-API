@@ -1,0 +1,7 @@
+[tool.poetry]
+name = "pubmed-api"
+version = "0.1.1"
+description = "A tool to fetch and analyze research papers from PubMed"
+authors = ["Your Name <your.email@example.com>"]
+readme = "README.md"
+packages = [{include = "pubmed-api"}]  # Match your folder name here
