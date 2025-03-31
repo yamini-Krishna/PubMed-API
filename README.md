@@ -22,7 +22,7 @@ Ensure you have Python (>= 3.7) and Poetry installed. Then follow these steps:
 1. Clone the repository:
     ```bash
     git clone https://github.com/yamini-Krishna/PubMed-API.git
-    cd pubmed-api
+    cd PubMed-API
     ```
     
 2. Install "requests":
@@ -34,7 +34,11 @@ Ensure you have Python (>= 3.7) and Poetry installed. Then follow these steps:
     ```bash
     cd pubmed-api
     ```
-
+4. Run the script:
+    ```bash
+    python cli.py
+    ```
+    
 ## Usage
 To run the CLI:
 ```bash
