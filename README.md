@@ -30,7 +30,7 @@ Ensure you have Python (>= 3.7) and Poetry installed. Then follow these steps:
     pip install requests
     ```
 
-3. locate to pubmed-api(which contains cli.py):
+3. Locate to pubmed-api(which contains cli.py):
     ```bash
     cd pubmed-api
     ```
