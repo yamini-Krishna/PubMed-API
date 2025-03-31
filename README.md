@@ -34,6 +34,16 @@ Ensure you have Python (>= 3.7) and Poetry installed. Then follow these steps:
     ```bash
     poetry shell
     ```
+    
+4. Install "requests":
+    ```bash
+    pip install requests
+    ```
+
+5. locate to pubmed-api(which contains cli.py):
+    ```bash
+    cd pubmed-api
+    ```
 
 ## Usage
 To run the CLI:
