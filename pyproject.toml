@@ -2,6 +2,6 @@
 name = "pubmed-api"
 version = "0.1.1"
 description = "A tool to fetch and analyze research papers from PubMed"
-authors = ["yaminikrishna <yaminimusku04@gmail.com"]
+authors = ["yaminikrishna <yaminimusku04@gmail.com>"]
 readme = "README.md"
 packages = [{include = "pubmed-api"}] 
