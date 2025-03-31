@@ -24,23 +24,13 @@ Ensure you have Python (>= 3.7) and Poetry installed. Then follow these steps:
     git clone https://github.com/yamini-Krishna/PubMed-API.git
     cd pubmed-api
     ```
-
-2. Install dependencies using Poetry:
-    ```bash
-    poetry install
-    ```
-
-3. Activate the virtual environment:
-    ```bash
-    poetry shell
-    ```
     
-4. Install "requests":
+2. Install "requests":
     ```bash
     pip install requests
     ```
 
-5. locate to pubmed-api(which contains cli.py):
+3. locate to pubmed-api(which contains cli.py):
     ```bash
     cd pubmed-api
     ```
