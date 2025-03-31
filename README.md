@@ -48,7 +48,7 @@ Ensure you have Python (>= 3.7) and Poetry installed. Then follow these steps:
 ## Usage
 To run the CLI:
 ```bash
-poetry run python cli.py "<search-query>" -f <output-file.csv> --debug
+python cli.py "<search-query>" -f <output-file.csv> --debug
 ```
 - `<search-query>` - Your search term for PubMed.
 - `-f, --file` (optional) - Name of the output CSV file.
@@ -56,7 +56,7 @@ poetry run python cli.py "<search-query>" -f <output-file.csv> --debug
 
 Example:
 ```bash
-poetry run python cli.py "cancer research" -f results.csv --debug
+python cli.py "cancer research" -f results.csv --debug
 ```
 
 ## LLM and Tools Used
