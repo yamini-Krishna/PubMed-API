@@ -55,7 +55,7 @@ python cli.py "cancer research" -f results.csv --debug
 
 ## LLM and Tools Used
 - **Chatgpt** - Used for learning about Pubmed API, Test pypi, and poetry
--  
+ 
 This project was built using the following tools and libraries:
 - **Python** - https://www.python.org/
 - **Poetry** (Dependency Management) - https://python-poetry.org/
