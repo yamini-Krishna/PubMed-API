@@ -54,9 +54,6 @@ poetry run python cli.py "cancer research" -f results.csv --debug
 This project was built using the following tools and libraries:
 - **Python** - https://www.python.org/
 - **Poetry** (Dependency Management) - https://python-poetry.org/
-- **Requests** - https://docs.python-requests.org/en/latest/
-- **XML Parsing (ElementTree)** - https://docs.python.org/3/library/xml.etree.elementtree.html
-- **Logging** - https://docs.python.org/3/library/logging.html
 
 
 
